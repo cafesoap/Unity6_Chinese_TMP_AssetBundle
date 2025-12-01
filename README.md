@@ -1,0 +1,2 @@
+# Unity6_Chinese_TMP_AssetBundle
+用Unity6构建的游戏在使用XUnity AutoTranslator汉化时会出现字体丢失的问题，这里补一个unity6的字体AssetBundle，以及一个unity6的安装包
